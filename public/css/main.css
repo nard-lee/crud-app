@@ -1,0 +1,55 @@
+body {
+    background: #f2f2f2;
+}
+
+.pk-nav-bar {
+    border-right: 1px solid #d9d9d9;
+    background: #fff;
+    height: 100vh;
+}
+
+.pk-nav-2 {
+    height: 100%;
+    width: 5.3rem;
+    padding: 1rem;
+}
+
+.pk-nav-bar div a {
+    padding: 15px;
+    border-radius: 5px;
+    transition: 100ms;
+}
+
+.pk-nav-bar div a:hover {
+    scale: 1.1;
+    background: #d9d9d9;
+}
+
+.search {
+    width: 17rem;
+    padding: 1rem;
+    background: #fff;
+    position: absolute;
+    left: 5.4rem;
+    top: 0;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    clip-path: inset(0px -15px 0px 0px);
+}
+
+.search form input {
+    width: 100%;
+    outline: none;
+    border: 1px solid #d9d9d9;
+    background: #d9d9d9;
+    border-radius: 8px;
+    padding: 5px 12px 5px 12px;
+}
+
+/* signup */
+
+
+
+#results {
+    border-top: 1px solid #d9d9d9;
+}

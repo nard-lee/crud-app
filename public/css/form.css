@@ -1,0 +1,30 @@
+
+body {
+    background: #ccc;
+}
+
+.sign-up {
+    margin-top: 4rem;
+    background: #fff;
+    padding: 3rem;
+    border-radius: 9px;
+    border: 1px solid #ccc;
+    box-shadow: rgba(50, 50, 93, 0.1) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.sign-up input {
+    outline: none;
+    border: 1px solid #333;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.sign-up input[type="submit"] {
+    background: #333;
+    color: #fff;
+}
+
+.form-error {
+    color: red;
+    font-size: 12px;
+}
